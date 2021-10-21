@@ -1,9 +1,14 @@
 {
     "events": [
         {
-            "name": "Iron Flan",
+            "title": "Iron Man",
             "yearOfRelease": "2008",
-            "yearInTimeline": "2009"
+            "yearInTimeline": "2010"
+        },
+        {
+            "title": "Thor",
+            "yearOfRelease": "2011",
+            "yearInTimeline": "2011"
         }
     ]
 }
