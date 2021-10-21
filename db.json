@@ -1,9 +1,9 @@
 {
-    "films": [
+    "events": [
         {
-            "name": "Iron Man",
-            "releaseYear": "2008",
-            "timelineYear": "2009"
+            "name": "Iron Flan",
+            "yearOfRelease": "2008",
+            "yearInTimeline": "2009"
         }
     ]
 }
