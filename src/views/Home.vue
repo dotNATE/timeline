@@ -1,20 +1,20 @@
 <template>
   <div>
-    <pre></pre>
+    <EventList v-slot="events">
+      <EventDisplay v-for="event in events" :key="event.title" v-bind="event" />
+    </EventList>
   </div>
 </template>
 
 <script>
+import EventList from "@/components/EventList.vue";
+import EventDisplay from "@/components/EventDisplay.vue";
+
 export default {
   name: "Home",
-  // setup() {
-  //   const store = useStore();
-
-  //   const events = computed(() => {
-  //     return store.state.events.data;
-  //   });
-
-  //   return { events };
-  // },
+  components: {
+    EventList,
+    EventDisplay,
+  },
 };
 </script>
