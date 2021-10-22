@@ -1,32 +1,35 @@
+import { createStore } from "vuex";
 import { mount } from "@vue/test-utils";
-import EventList from "@/components/EventList.vue";
 
-jest.mock("@/services/EventService");
+import EventList from "@/components/EventList";
+
+const mockEvent = {
+  title: "Iron Man",
+  yearOfRelease: "2008",
+  yearInTimeline: "2010",
+};
+
+const store = createStore({
+  state() {
+    return {
+      events: [mockEvent],
+    };
+  },
+});
 
 describe("EventList", () => {
-  it("renders the component", () => {
-    const wrapper = mount(EventList);
-    const outerElementExists = wrapper.find(".event-list").exists();
-
-    expect(outerElementExists).toBe(true);
-  });
-
-  it("has a slot element", () => {
+  it("renders a default slot", () => {
     const wrapper = mount(EventList, {
+      global: {
+        plugins: [store],
+      },
       slots: {
-        default: '<div class="test"></div>',
+        default: '<div class="test">test</div>',
       },
     });
-    const slotElementExists = wrapper.find(".test").exists();
 
-    expect(slotElementExists).toBe(true);
+    const slotIsTrue = wrapper.find(".test").exists();
+
+    expect(slotIsTrue).toBe(true);
   });
-
-  // it("fetches events from the json db", async () => {
-  //   expect(true).toBe(true);
-  // });
-
-  // it("passes event data into slot element as props", () => {
-  //   expect(true).toBe(true);
-  // });
 });

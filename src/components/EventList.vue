@@ -5,16 +5,15 @@
 </template>
 
 <script>
-import EventService from "@/services/EventService.js";
-import { ref, onMounted } from "vue";
+import { computed } from "vue";
+import { useStore } from "vuex";
 
 export default {
   setup() {
-    const events = ref([]);
+    const store = useStore();
 
-    onMounted(async () => {
-      const response = await EventService.getEvents();
-      events.value = response.data;
+    const events = computed(() => {
+      return store.state.events;
     });
 
     return { events };
