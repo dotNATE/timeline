@@ -17,19 +17,33 @@ const store = createStore({
   },
 });
 
+const factory = (slots) => {
+  return mount(EventList, {
+    global: {
+      plugins: [store],
+    },
+    slots: {
+      ...slots,
+    },
+  });
+};
+
 describe("EventList", () => {
   it("renders a default slot", () => {
-    const wrapper = mount(EventList, {
-      global: {
-        plugins: [store],
-      },
-      slots: {
-        default: '<div class="test">test</div>',
-      },
-    });
+    const slots = {
+      default: '<div class="test">test</div>',
+    };
+    const wrapper = factory(slots);
+    const slotExists = wrapper.find(".test").exists();
+    expect(slotExists).toBe(true);
+  });
 
-    const slotIsTrue = wrapper.find(".test").exists();
-
-    expect(slotIsTrue).toBe(true);
+  it("gets events from a mock store and makes them available to desfault slot", () => {
+    const slots = {
+      default: "<template #default='events'>{{events[0].title}}</template>",
+    };
+    const wrapper = factory(slots);
+    const slottedText = wrapper.find(".event-list").text();
+    expect(slottedText).toEqual(mockEvent.title);
   });
 });
