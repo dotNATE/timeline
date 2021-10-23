@@ -1,14 +1,1116 @@
 {
     "events": [
         {
-            "title": "Iron Man",
-            "yearOfRelease": "2008",
-            "yearInTimeline": "2010"
+            "Title": "Iron Man",
+            "Year": "2008",
+            "Rated": "PG-13",
+            "Released": "02 May 2008",
+            "Runtime": "126 min",
+            "Genre": "Action, Adventure, Sci-Fi",
+            "Director": "Jon Favreau",
+            "Writer": "Mark Fergus, Hawk Ostby, Art Marcum",
+            "Actors": "Robert Downey Jr., Gwyneth Paltrow, Terrence Howard",
+            "Plot": "Tony Stark. Genius, billionaire, playboy, philanthropist. Son of legendary inventor and weapons contractor Howard Stark. When Tony Stark is assigned to give a weapons presentation to an Iraqi unit led by Lt. Col. James Rhodes, he's given a ride on enemy lines. That ride ends badly when Stark's Humvee that he's riding in is attacked by enemy combatants. He survives - barely - with a chest full of shrapnel and a car battery attached to his heart. In order to survive he comes up with a way to miniaturize the battery and figures out that the battery can power something else. Thus Iron Man is born. He uses the primitive device to escape from the cave in Iraq. Once back home, he then begins work on perfecting the Iron Man suit. But the man who was put in charge of Stark Industries has plans of his own to take over Tony's technology for other matters.",
+            "Language": "English, Persian, Urdu, Arabic, Kurdish, Hindi, Hungarian",
+            "Country": "United States, Canada",
+            "Awards": "Nominated for 2 Oscars. 21 wins & 73 nominations total",
+            "Poster": "https://m.media-amazon.com/images/M/MV5BMTczNTI2ODUwOF5BMl5BanBnXkFtZTcwMTU0NTIzMw@@._V1_SX300.jpg",
+            "Ratings": [
+            {
+            "Source": "Internet Movie Database",
+            "Value": "7.9/10"
+            },
+            {
+            "Source": "Rotten Tomatoes",
+            "Value": "94%"
+            },
+            {
+            "Source": "Metacritic",
+            "Value": "79/100"
+            }
+            ],
+            "Metascore": "79",
+            "imdbRating": "7.9",
+            "imdbVotes": "987,183",
+            "imdbID": "tt0371746",
+            "Type": "movie",
+            "DVD": "30 Sep 2008",
+            "BoxOffice": "$319,034,126",
+            "Production": "N/A",
+            "Website": "N/A",
+            "Response": "True"
         },
         {
-            "title": "Thor",
-            "yearOfRelease": "2011",
-            "yearInTimeline": "2011"
+            "Title": "The Incredible Hulk",
+            "Year": "2008",
+            "Rated": "PG-13",
+            "Released": "13 Jun 2008",
+            "Runtime": "112 min",
+            "Genre": "Action, Adventure, Sci-Fi",
+            "Director": "Louis Leterrier",
+            "Writer": "Zak Penn, Stan Lee, Jack Kirby",
+            "Actors": "Edward Norton, Liv Tyler, Tim Roth",
+            "Plot": "Depicting the events after the Gamma Bomb. 'The Incredible Hulk' tells the story of Dr Bruce Banner, who seeks a cure to his unique condition, which causes him to turn into a giant green monster under emotional stress. Whilst on the run from military which seeks his capture, Banner comes close to a cure. But all is lost when a new creature emerges: The Abomination.",
+            "Language": "English, Portuguese, Spanish",
+            "Country": "United States",
+            "Awards": "1 win & 10 nominations",
+            "Poster": "https://m.media-amazon.com/images/M/MV5BMTUyNzk3MjA1OF5BMl5BanBnXkFtZTcwMTE1Njg2MQ@@._V1_SX300.jpg",
+            "Ratings": [
+            {
+            "Source": "Internet Movie Database",
+            "Value": "6.6/10"
+            },
+            {
+            "Source": "Rotten Tomatoes",
+            "Value": "67%"
+            },
+            {
+            "Source": "Metacritic",
+            "Value": "61/100"
+            }
+            ],
+            "Metascore": "61",
+            "imdbRating": "6.6",
+            "imdbVotes": "457,588",
+            "imdbID": "tt0800080",
+            "Type": "movie",
+            "DVD": "21 Oct 2008",
+            "BoxOffice": "$134,806,913",
+            "Production": "N/A",
+            "Website": "N/A",
+            "Response": "True"
+        },
+        {
+            "Title": "Iron Man 2",
+            "Year": "2010",
+            "Rated": "PG-13",
+            "Released": "07 May 2010",
+            "Runtime": "124 min",
+            "Genre": "Action, Adventure, Sci-Fi",
+            "Director": "Jon Favreau",
+            "Writer": "Justin Theroux, Stan Lee, Don Heck",
+            "Actors": "Robert Downey Jr., Mickey Rourke, Gwyneth Paltrow",
+            "Plot": "With the world now aware of his dual life as the armored superhero Iron Man, billionaire inventor Tony Stark faces pressure from the government, the press, and the public to share his technology with the military. Unwilling to let go of his invention, Stark, along with Pepper Potts, and James \"Rhodey\" Rhodes at his side, must forge new alliances - and confront powerful enemies.",
+            "Language": "English, French, Russian",
+            "Country": "United States",
+            "Awards": "Nominated for 1 Oscar. 7 wins & 44 nominations total",
+            "Poster": "https://m.media-amazon.com/images/M/MV5BMTM0MDgwNjMyMl5BMl5BanBnXkFtZTcwNTg3NzAzMw@@._V1_SX300.jpg",
+            "Ratings": [
+            {
+            "Source": "Internet Movie Database",
+            "Value": "7.0/10"
+            },
+            {
+            "Source": "Rotten Tomatoes",
+            "Value": "72%"
+            },
+            {
+            "Source": "Metacritic",
+            "Value": "57/100"
+            }
+            ],
+            "Metascore": "57",
+            "imdbRating": "7.0",
+            "imdbVotes": "758,173",
+            "imdbID": "tt1228705",
+            "Type": "movie",
+            "DVD": "17 Aug 2010",
+            "BoxOffice": "$312,433,331",
+            "Production": "N/A",
+            "Website": "N/A",
+            "Response": "True"
+        },
+        {
+            "Title": "Thor",
+            "Year": "2011",
+            "Rated": "PG-13",
+            "Released": "06 May 2011",
+            "Runtime": "115 min",
+            "Genre": "Action, Adventure, Fantasy",
+            "Director": "Kenneth Branagh",
+            "Writer": "Ashley Miller, Zack Stentz, Don Payne",
+            "Actors": "Chris Hemsworth, Anthony Hopkins, Natalie Portman",
+            "Plot": "The warrior Thor (Chris Hemsworth) is cast out of the fantastic realm of Asgard by his father Odin (Sir Anthony Hopkins) for his arrogance and sent to Earth to live amongst humans. Falling in love with scientist Jane Foster (Natalie Portman) teaches Thor much-needed lessons, and his new-found strength comes into play as a villain from his homeland sends dark forces toward Earth.",
+            "Language": "English",
+            "Country": "United States",
+            "Awards": "5 wins & 30 nominations",
+            "Poster": "https://m.media-amazon.com/images/M/MV5BOGE4NzU1YTAtNzA3Mi00ZTA2LTg2YmYtMDJmMThiMjlkYjg2XkEyXkFqcGdeQXVyNTgzMDMzMTg@._V1_SX300.jpg",
+            "Ratings": [
+            {
+            "Source": "Internet Movie Database",
+            "Value": "7.0/10"
+            },
+            {
+            "Source": "Rotten Tomatoes",
+            "Value": "77%"
+            },
+            {
+            "Source": "Metacritic",
+            "Value": "57/100"
+            }
+            ],
+            "Metascore": "57",
+            "imdbRating": "7.0",
+            "imdbVotes": "786,670",
+            "imdbID": "tt0800369",
+            "Type": "movie",
+            "DVD": "13 Sep 2011",
+            "BoxOffice": "$181,030,624",
+            "Production": "N/A",
+            "Website": "N/A",
+            "Response": "True"
+        },
+        {
+            "Title": "Captain America: The First Avenger",
+            "Year": "2011",
+            "Rated": "PG-13",
+            "Released": "22 Jul 2011",
+            "Runtime": "124 min",
+            "Genre": "Action, Adventure, Sci-Fi",
+            "Director": "Joe Johnston",
+            "Writer": "Christopher Markus, Stephen McFeely, Joe Simon",
+            "Actors": "Chris Evans, Hugo Weaving, Samuel L. Jackson",
+            "Plot": "It is 1942, America has entered World War II, and sickly but determined Steve Rogers is frustrated at being rejected yet again for military service. Everything changes when Dr. Erskine recruits him for the secret Project Rebirth. Proving his extraordinary courage, wits and conscience, Rogers undergoes the experiment and his weak body is suddenly enhanced into the maximum human potential. When Dr. Erskine is then immediately assassinated by an agent of Nazi Germany's secret HYDRA research department (headed by Johann Schmidt, a.k.a. the Red Skull), Rogers is left as a unique man who is initially misused as a propaganda mascot; however, when his comrades need him, Rogers goes on a successful adventure that truly makes him Captain America, and his war against Schmidt begins.",
+            "Language": "English, Norwegian, French",
+            "Country": "United States",
+            "Awards": "4 wins & 46 nominations",
+            "Poster": "https://m.media-amazon.com/images/M/MV5BMTYzOTc2NzU3N15BMl5BanBnXkFtZTcwNjY3MDE3NQ@@._V1_SX300.jpg",
+            "Ratings": [
+            {
+            "Source": "Internet Movie Database",
+            "Value": "6.9/10"
+            },
+            {
+            "Source": "Rotten Tomatoes",
+            "Value": "80%"
+            },
+            {
+            "Source": "Metacritic",
+            "Value": "66/100"
+            }
+            ],
+            "Metascore": "66",
+            "imdbRating": "6.9",
+            "imdbVotes": "785,394",
+            "imdbID": "tt0458339",
+            "Type": "movie",
+            "DVD": "25 Oct 2011",
+            "BoxOffice": "$176,654,505",
+            "Production": "N/A",
+            "Website": "N/A",
+            "Response": "True"
+        },
+        {
+            "Title": "The Avengers",
+            "Year": "2012",
+            "Rated": "PG-13",
+            "Released": "04 May 2012",
+            "Runtime": "143 min",
+            "Genre": "Action, Adventure, Sci-Fi",
+            "Director": "Joss Whedon",
+            "Writer": "Joss Whedon, Zak Penn",
+            "Actors": "Robert Downey Jr., Chris Evans, Scarlett Johansson",
+            "Plot": "Loki, the adopted brother of Thor, teams-up with the Chitauri Army and uses the Tesseract's power to travel from Asgard to Midgard to plot the invasion of Earth and become a king. The director of the agency S.H.I.E.L.D., Nick Fury, sets in motion project Avengers, joining Tony Stark a.k.a. the Iron Man; Steve Rogers, a.k.a. Captain America; Bruce Banner, a.k.a. The Hulk; Thor; Natasha Romanoff, a.k.a. Black Widow; and Clint Barton, a.k.a. Hawkeye, to save the world from the powerful Loki and the alien invasion.",
+            "Language": "English, Russian, Hindi",
+            "Country": "United States",
+            "Awards": "Nominated for 1 Oscar. 38 wins & 80 nominations total",
+            "Poster": "https://m.media-amazon.com/images/M/MV5BNDYxNjQyMjAtNTdiOS00NGYwLWFmNTAtNThmYjU5ZGI2YTI1XkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_SX300.jpg",
+            "Ratings": [
+            {
+            "Source": "Internet Movie Database",
+            "Value": "8.0/10"
+            },
+            {
+            "Source": "Rotten Tomatoes",
+            "Value": "91%"
+            },
+            {
+            "Source": "Metacritic",
+            "Value": "69/100"
+            }
+            ],
+            "Metascore": "69",
+            "imdbRating": "8.0",
+            "imdbVotes": "1,311,758",
+            "imdbID": "tt0848228",
+            "Type": "movie",
+            "DVD": "25 Sep 2012",
+            "BoxOffice": "$623,357,910",
+            "Production": "N/A",
+            "Website": "N/A",
+            "Response": "True"
+        },
+        {
+            "Title": "Iron Man Three",
+            "Year": "2013",
+            "Rated": "PG-13",
+            "Released": "03 May 2013",
+            "Runtime": "130 min",
+            "Genre": "Action, Adventure, Sci-Fi",
+            "Director": "Shane Black",
+            "Writer": "Drew Pearce, Shane Black, Stan Lee",
+            "Actors": "Robert Downey Jr., Guy Pearce, Gwyneth Paltrow",
+            "Plot": "Marvel's \"Iron Man 3\" pits brash-but-brilliant industrialist Tony Stark/Iron Man against an enemy whose reach knows no bounds. When Stark finds his personal world destroyed at his enemy's hands, he embarks on a harrowing quest to find those responsible. This journey, at every turn, will test his mettle. With his back against the wall, Stark is left to survive by his own devices, relying on his ingenuity and instincts to protect those closest to him. As he fights his way back, Stark discovers the answer to the question that has secretly haunted him: does the man make the suit or does the suit make the man?",
+            "Language": "English",
+            "Country": "United States",
+            "Awards": "Nominated for 1 Oscar. 20 wins & 63 nominations total",
+            "Poster": "https://m.media-amazon.com/images/M/MV5BMjE5MzcyNjk1M15BMl5BanBnXkFtZTcwMjQ4MjcxOQ@@._V1_SX300.jpg",
+            "Ratings": [
+            {
+            "Source": "Internet Movie Database",
+            "Value": "7.1/10"
+            },
+            {
+            "Source": "Rotten Tomatoes",
+            "Value": "79%"
+            },
+            {
+            "Source": "Metacritic",
+            "Value": "62/100"
+            }
+            ],
+            "Metascore": "62",
+            "imdbRating": "7.1",
+            "imdbVotes": "793,941",
+            "imdbID": "tt1300854",
+            "Type": "movie",
+            "DVD": "24 Sep 2013",
+            "BoxOffice": "$409,013,994",
+            "Production": "N/A",
+            "Website": "N/A",
+            "Response": "True"
+        },
+        {
+            "Title": "Thor: The Dark World",
+            "Year": "2013",
+            "Rated": "PG-13",
+            "Released": "08 Nov 2013",
+            "Runtime": "112 min",
+            "Genre": "Action, Adventure, Fantasy",
+            "Director": "Alan Taylor",
+            "Writer": "Christopher L. Yost, Christopher Markus, Stephen McFeely",
+            "Actors": "Chris Hemsworth, Natalie Portman, Tom Hiddleston",
+            "Plot": "Thousands of years ago, a race of beings known as Dark Elves tried to send the universe into darkness by using a weapon known as the Aether. Warriors from Asgard stopped them, but their leader Malekith (Christopher Eccleston) escaped to wait for another opportunity. The warriors find the Aether, and since it cannot be destroyed, they try to hide it. In the present day, Jane Foster (Natalie Portman) awaits the return of Thor (Chris Hemsworth), although it has been two years since they last saw once another. In the meantime, Thor has been trying to bring peace to the nine realms. Jane discovers an anomaly similar to the one that brought Thor to Earth. She goes to investigate, finds a wormhole, and is sucked into it. Back on Asgard, Thor wishes to return to Earth, but his father, Odin (Sir Anthony Hopkins), refuses to let him. Thor learns from Heimdall (Idris Elba), who can see into all of the realms, that Jane disappeared. Thor then returns to Earth just as Jane reappears. However, when some Policemen try to arrest her, an unknown energy repulses them. Thor then brings Jane to Asgard to find out what happened to her. When the energy is released again, they discover that when Jane disappeared, she crossed paths with the Aether and it entered her. Malekith, upon sensing that the time to strike is now, seeks out the Aether. He attacks Asgard and Thor's mother Frigga (Rene Russo) is killed protecting Jane. Odin wants to keep Jane on Asgard so that Malekith will come. Thor disagrees with his plan, so with his cohorts, he decides to take Jane away. He enlists the aid of his brother, Loki (Tom Hiddleston). Unfortunately, Loki's motivations remain unknown.",
+            "Language": "English",
+            "Country": "United States",
+            "Awards": "4 wins & 21 nominations",
+            "Poster": "https://m.media-amazon.com/images/M/MV5BMTQyNzAwOTUxOF5BMl5BanBnXkFtZTcwMTE0OTc5OQ@@._V1_SX300.jpg",
+            "Ratings": [
+            {
+            "Source": "Internet Movie Database",
+            "Value": "6.8/10"
+            },
+            {
+            "Source": "Rotten Tomatoes",
+            "Value": "66%"
+            },
+            {
+            "Source": "Metacritic",
+            "Value": "54/100"
+            }
+            ],
+            "Metascore": "54",
+            "imdbRating": "6.8",
+            "imdbVotes": "628,363",
+            "imdbID": "tt1981115",
+            "Type": "movie",
+            "DVD": "25 Feb 2014",
+            "BoxOffice": "$206,362,140",
+            "Production": "N/A",
+            "Website": "N/A",
+            "Response": "True"
+        },
+        {
+            "Title": "Captain America: The Winter Soldier",
+            "Year": "2014",
+            "Rated": "PG-13",
+            "Released": "04 Apr 2014",
+            "Runtime": "136 min",
+            "Genre": "Action, Adventure, Sci-Fi",
+            "Director": "Anthony Russo, Joe Russo",
+            "Writer": "Christopher Markus, Stephen McFeely, Joe Simon",
+            "Actors": "Chris Evans, Samuel L. Jackson, Scarlett Johansson",
+            "Plot": "For Steve Rogers, awakening after decades of suspended animation involves more than catching up on pop culture; it also means that this old school idealist must face a world of subtler threats and difficult moral complexities. That becomes clear when Director Nick Fury is killed by the mysterious assassin, the Winter Soldier, but not before warning Rogers that SHIELD has been subverted by its enemies. When Rogers acts on Fury's warning to trust no one there, he is branded as a traitor by the organization. Now a fugitive, Captain America must get to the bottom of this deadly mystery with the help of the Black Widow and his new friend, The Falcon. However, the battle will be costly for the Sentinel of Liberty, with Rogers finding enemies where he least expects them while learning that the Winter Soldier looks disturbingly familiar.",
+            "Language": "English, French",
+            "Country": "United States",
+            "Awards": "Nominated for 1 Oscar. 5 wins & 52 nominations total",
+            "Poster": "https://m.media-amazon.com/images/M/MV5BMzA2NDkwODAwM15BMl5BanBnXkFtZTgwODk5MTgzMTE@._V1_SX300.jpg",
+            "Ratings": [
+            {
+            "Source": "Internet Movie Database",
+            "Value": "7.7/10"
+            },
+            {
+            "Source": "Rotten Tomatoes",
+            "Value": "90%"
+            },
+            {
+            "Source": "Metacritic",
+            "Value": "70/100"
+            }
+            ],
+            "Metascore": "70",
+            "imdbRating": "7.7",
+            "imdbVotes": "780,553",
+            "imdbID": "tt1843866",
+            "Type": "movie",
+            "DVD": "09 Sep 2014",
+            "BoxOffice": "$259,766,572",
+            "Production": "N/A",
+            "Website": "N/A",
+            "Response": "True"
+        },
+        {
+            "Title": "Guardians of the Galaxy",
+            "Year": "2014",
+            "Rated": "PG-13",
+            "Released": "01 Aug 2014",
+            "Runtime": "121 min",
+            "Genre": "Action, Adventure, Comedy",
+            "Director": "James Gunn",
+            "Writer": "James Gunn, Nicole Perlman, Dan Abnett",
+            "Actors": "Chris Pratt, Vin Diesel, Bradley Cooper",
+            "Plot": "After stealing a mysterious orb in the far reaches of outer space, Peter Quill from Earth is now the main target of a manhunt led by the villain known as Ronan the Accuser. To help fight Ronan and his team and save the galaxy from his power, Quill creates a team of space heroes known as the \"Guardians of the Galaxy\" to save the galaxy.",
+            "Language": "English",
+            "Country": "United States",
+            "Awards": "Nominated for 2 Oscars. 52 wins & 102 nominations total",
+            "Poster": "https://m.media-amazon.com/images/M/MV5BMTAwMjU5OTgxNjZeQTJeQWpwZ15BbWU4MDUxNDYxODEx._V1_SX300.jpg",
+            "Ratings": [
+            {
+            "Source": "Internet Movie Database",
+            "Value": "8.0/10"
+            },
+            {
+            "Source": "Rotten Tomatoes",
+            "Value": "92%"
+            },
+            {
+            "Source": "Metacritic",
+            "Value": "76/100"
+            }
+            ],
+            "Metascore": "76",
+            "imdbRating": "8.0",
+            "imdbVotes": "1,097,856",
+            "imdbID": "tt2015381",
+            "Type": "movie",
+            "DVD": "09 Dec 2014",
+            "BoxOffice": "$333,718,600",
+            "Production": "N/A",
+            "Website": "N/A",
+            "Response": "True"
+        },
+        {
+            "Title": "Avengers: Age of Ultron",
+            "Year": "2015",
+            "Rated": "PG-13",
+            "Released": "01 May 2015",
+            "Runtime": "141 min",
+            "Genre": "Action, Adventure, Sci-Fi",
+            "Director": "Joss Whedon",
+            "Writer": "Joss Whedon, Stan Lee, Jack Kirby",
+            "Actors": "Robert Downey Jr., Chris Evans, Mark Ruffalo",
+            "Plot": "Tony Stark creates the Ultron Program to protect the world, but when the peacekeeping program becomes hostile, The Avengers go into action to try and defeat a virtually impossible enemy together. Earth's mightiest heroes must come together once again to protect the world from global extinction.",
+            "Language": "English, Korean",
+            "Country": "United States",
+            "Awards": "8 wins & 49 nominations",
+            "Poster": "https://m.media-amazon.com/images/M/MV5BMTM4OGJmNWMtOTM4Ni00NTE3LTg3MDItZmQxYjc4N2JhNmUxXkEyXkFqcGdeQXVyNTgzMDMzMTg@._V1_SX300.jpg",
+            "Ratings": [
+            {
+            "Source": "Internet Movie Database",
+            "Value": "7.3/10"
+            },
+            {
+            "Source": "Rotten Tomatoes",
+            "Value": "76%"
+            },
+            {
+            "Source": "Metacritic",
+            "Value": "66/100"
+            }
+            ],
+            "Metascore": "66",
+            "imdbRating": "7.3",
+            "imdbVotes": "792,951",
+            "imdbID": "tt2395427",
+            "Type": "movie",
+            "DVD": "02 Oct 2015",
+            "BoxOffice": "$459,005,868",
+            "Production": "N/A",
+            "Website": "N/A",
+            "Response": "True"
+        },
+        {
+            "Title": "Ant-Man",
+            "Year": "2015",
+            "Rated": "PG-13",
+            "Released": "17 Jul 2015",
+            "Runtime": "117 min",
+            "Genre": "Action, Adventure, Comedy",
+            "Director": "Peyton Reed",
+            "Writer": "Edgar Wright, Joe Cornish, Adam McKay",
+            "Actors": "Paul Rudd, Michael Douglas, Corey Stoll",
+            "Plot": "Armed with the astonishing ability to shrink in scale but increase in strength, con-man Scott Lang must embrace his inner-hero and help his mentor, Dr. Hank Pym, protect the secret behind his spectacular Ant-Man suit from a new generation of towering threats. Against seemingly insurmountable obstacles, Pym and Lang must plan and pull off a heist that will save the world.",
+            "Language": "English",
+            "Country": "United States",
+            "Awards": "4 wins & 34 nominations total",
+            "Poster": "https://m.media-amazon.com/images/M/MV5BMjM2NTQ5Mzc2M15BMl5BanBnXkFtZTgwNTcxMDI2NTE@._V1_SX300.jpg",
+            "Ratings": [
+            {
+            "Source": "Internet Movie Database",
+            "Value": "7.3/10"
+            },
+            {
+            "Source": "Rotten Tomatoes",
+            "Value": "83%"
+            },
+            {
+            "Source": "Metacritic",
+            "Value": "64/100"
+            }
+            ],
+            "Metascore": "64",
+            "imdbRating": "7.3",
+            "imdbVotes": "610,204",
+            "imdbID": "tt0478970",
+            "Type": "movie",
+            "DVD": "08 Dec 2015",
+            "BoxOffice": "$180,202,163",
+            "Production": "N/A",
+            "Website": "N/A",
+            "Response": "True"
+        },
+        {
+            "Title": "Captain America: Civil War",
+            "Year": "2016",
+            "Rated": "PG-13",
+            "Released": "06 May 2016",
+            "Runtime": "147 min",
+            "Genre": "Action, Adventure, Sci-Fi",
+            "Director": "Anthony Russo, Joe Russo",
+            "Writer": "Christopher Markus, Stephen McFeely, Joe Simon",
+            "Actors": "Chris Evans, Robert Downey Jr., Scarlett Johansson",
+            "Plot": "Political involvement in the Avengers' affairs causes a rift between Captain America and Iron Man.",
+            "Language": "English, German, Xhosa, Russian, Romanian, Hindi",
+            "Country": "United States",
+            "Awards": "16 wins & 72 nominations",
+            "Poster": "https://m.media-amazon.com/images/M/MV5BMjQ0MTgyNjAxMV5BMl5BanBnXkFtZTgwNjUzMDkyODE@._V1_SX300.jpg",
+            "Ratings": [
+            {
+            "Source": "Internet Movie Database",
+            "Value": "7.8/10"
+            },
+            {
+            "Source": "Rotten Tomatoes",
+            "Value": "90%"
+            },
+            {
+            "Source": "Metacritic",
+            "Value": "75/100"
+            }
+            ],
+            "Metascore": "75",
+            "imdbRating": "7.8",
+            "imdbVotes": "712,407",
+            "imdbID": "tt3498820",
+            "Type": "movie",
+            "DVD": "13 Sep 2016",
+            "BoxOffice": "$408,084,349",
+            "Production": "N/A",
+            "Website": "N/A",
+            "Response": "True"
+        },
+        {
+            "Title": "Doctor Strange",
+            "Year": "2016",
+            "Rated": "PG-13",
+            "Released": "04 Nov 2016",
+            "Runtime": "115 min",
+            "Genre": "Action, Adventure, Fantasy",
+            "Director": "Scott Derrickson",
+            "Writer": "Jon Spaihts, Scott Derrickson, C. Robert Cargill",
+            "Actors": "Benedict Cumberbatch, Chiwetel Ejiofor, Rachel McAdams",
+            "Plot": "While on a journey of physical and spiritual healing, a brilliant neurosurgeon is drawn into the world of the mystic arts.",
+            "Language": "English",
+            "Country": "United States",
+            "Awards": "Nominated for 1 Oscar. 19 wins & 68 nominations total",
+            "Poster": "https://m.media-amazon.com/images/M/MV5BNjgwNzAzNjk1Nl5BMl5BanBnXkFtZTgwMzQ2NjI1OTE@._V1_SX300.jpg",
+            "Ratings": [
+            {
+            "Source": "Internet Movie Database",
+            "Value": "7.5/10"
+            },
+            {
+            "Source": "Rotten Tomatoes",
+            "Value": "89%"
+            },
+            {
+            "Source": "Metacritic",
+            "Value": "72/100"
+            }
+            ],
+            "Metascore": "72",
+            "imdbRating": "7.5",
+            "imdbVotes": "648,133",
+            "imdbID": "tt1211837",
+            "Type": "movie",
+            "DVD": "28 Feb 2017",
+            "BoxOffice": "$232,641,920",
+            "Production": "N/A",
+            "Website": "N/A",
+            "Response": "True"
+        },
+        {
+            "Title": "Guardians of the Galaxy Vol. 2",
+            "Year": "2017",
+            "Rated": "PG-13",
+            "Released": "05 May 2017",
+            "Runtime": "136 min",
+            "Genre": "Action, Adventure, Comedy",
+            "Director": "James Gunn",
+            "Writer": "James Gunn, Dan Abnett, Andy Lanning",
+            "Actors": "Chris Pratt, Zoe Saldana, Dave Bautista",
+            "Plot": "The Guardians struggle to keep together as a team while dealing with their personal family issues, notably Star-Lord's encounter with his father the ambitious celestial being Ego.",
+            "Language": "English",
+            "Country": "United States",
+            "Awards": "Nominated for 1 Oscar. 15 wins & 58 nominations total",
+            "Poster": "https://m.media-amazon.com/images/M/MV5BNjM0NTc0NzItM2FlYS00YzEwLWE0YmUtNTA2ZWIzODc2OTgxXkEyXkFqcGdeQXVyNTgwNzIyNzg@._V1_SX300.jpg",
+            "Ratings": [
+            {
+            "Source": "Internet Movie Database",
+            "Value": "7.6/10"
+            },
+            {
+            "Source": "Rotten Tomatoes",
+            "Value": "85%"
+            },
+            {
+            "Source": "Metacritic",
+            "Value": "67/100"
+            }
+            ],
+            "Metascore": "67",
+            "imdbRating": "7.6",
+            "imdbVotes": "612,320",
+            "imdbID": "tt3896198",
+            "Type": "movie",
+            "DVD": "22 Aug 2017",
+            "BoxOffice": "$389,813,101",
+            "Production": "N/A",
+            "Website": "N/A",
+            "Response": "True"
+        },
+        {
+            "Title": "Spider-Man: Homecoming",
+            "Year": "2017",
+            "Rated": "PG-13",
+            "Released": "07 Jul 2017",
+            "Runtime": "133 min",
+            "Genre": "Action, Adventure, Sci-Fi",
+            "Director": "Jon Watts",
+            "Writer": "Jonathan Goldstein, John Francis Daley, Jon Watts",
+            "Actors": "Tom Holland, Michael Keaton, Robert Downey Jr.",
+            "Plot": "A young Peter Parker/Spider-Man begins to navigate his newfound identity as the web-slinging super hero Spider-Man. Thrilled by his experience with the Avengers, Peter returns home, where he lives with his Aunt May, under the watchful eye of his new mentor Tony Stark. Peter tries to fall back into his normal daily routine - distracted by thoughts of proving himself to be more than just your friendly neighborhood Spider-Man - but when the Vulture emerges as a new villain, everything that Peter holds most important will be threatened.",
+            "Language": "English, Spanish",
+            "Country": "United States",
+            "Awards": "7 wins & 10 nominations",
+            "Poster": "https://m.media-amazon.com/images/M/MV5BNTk4ODQ1MzgzNl5BMl5BanBnXkFtZTgwMTMyMzM4MTI@._V1_SX300.jpg",
+            "Ratings": [
+            {
+            "Source": "Internet Movie Database",
+            "Value": "7.4/10"
+            },
+            {
+            "Source": "Rotten Tomatoes",
+            "Value": "92%"
+            },
+            {
+            "Source": "Metacritic",
+            "Value": "73/100"
+            }
+            ],
+            "Metascore": "73",
+            "imdbRating": "7.4",
+            "imdbVotes": "558,855",
+            "imdbID": "tt2250912",
+            "Type": "movie",
+            "DVD": "17 Oct 2017",
+            "BoxOffice": "$334,201,140",
+            "Production": "N/A",
+            "Website": "N/A",
+            "Response": "True"
+        },
+        {
+            "Title": "Thor: Ragnarok",
+            "Year": "2017",
+            "Rated": "PG-13",
+            "Released": "03 Nov 2017",
+            "Runtime": "130 min",
+            "Genre": "Action, Adventure, Comedy",
+            "Director": "Taika Waititi",
+            "Writer": "Eric Pearson, Craig Kyle, Christopher L. Yost",
+            "Actors": "Chris Hemsworth, Tom Hiddleston, Cate Blanchett",
+            "Plot": "Imprisoned on the other side of the universe, the mighty Thor (Chris Hemsworth) finds himself in a deadly gladiatorial contest that pits him against The Incredible Hulk (Mark Ruffalo), his former ally and fellow Avenger. Thor's quest for survival leads him in a race against time to prevent the all-powerful Hela (Cate Blanchett) from destroying his home world and the Asgardian civilization.",
+            "Language": "English",
+            "Country": "United States, Australia",
+            "Awards": "6 wins & 49 nominations",
+            "Poster": "https://m.media-amazon.com/images/M/MV5BMjMyNDkzMzI1OF5BMl5BanBnXkFtZTgwODcxODg5MjI@._V1_SX300.jpg",
+            "Ratings": [
+            {
+            "Source": "Internet Movie Database",
+            "Value": "7.9/10"
+            },
+            {
+            "Source": "Rotten Tomatoes",
+            "Value": "93%"
+            },
+            {
+            "Source": "Metacritic",
+            "Value": "74/100"
+            }
+            ],
+            "Metascore": "74",
+            "imdbRating": "7.9",
+            "imdbVotes": "650,862",
+            "imdbID": "tt3501632",
+            "Type": "movie",
+            "DVD": "06 Mar 2018",
+            "BoxOffice": "$315,058,289",
+            "Production": "N/A",
+            "Website": "N/A",
+            "Response": "True"
+        },
+        {
+            "Title": "Black Panther",
+            "Year": "2018",
+            "Rated": "PG-13",
+            "Released": "16 Feb 2018",
+            "Runtime": "134 min",
+            "Genre": "Action, Adventure, Sci-Fi",
+            "Director": "Ryan Coogler",
+            "Writer": "Ryan Coogler, Joe Robert Cole, Stan Lee",
+            "Actors": "Chadwick Boseman, Michael B. Jordan, Lupita Nyong'o",
+            "Plot": "After the events of Captain America: Civil War, Prince T'Challa returns home to the reclusive, technologically advanced African nation of Wakanda to serve as his country's new king. However, T'Challa soon finds that he is challenged for the throne from factions within his own country. When two foes conspire to destroy Wakanda, the hero known as Black Panther must team up with C.I.A. agent Everett K. Ross and members of the Dora Milaje, Wakandan special forces, to prevent Wakanda from being dragged into a world war.",
+            "Language": "English, Swahili, Nama, Xhosa, Korean",
+            "Country": "United States, South Africa",
+            "Awards": "Won 3 Oscars. 114 wins & 280 nominations total",
+            "Poster": "https://m.media-amazon.com/images/M/MV5BMTg1MTY2MjYzNV5BMl5BanBnXkFtZTgwMTc4NTMwNDI@._V1_SX300.jpg",
+            "Ratings": [
+            {
+            "Source": "Internet Movie Database",
+            "Value": "7.3/10"
+            },
+            {
+            "Source": "Rotten Tomatoes",
+            "Value": "96%"
+            },
+            {
+            "Source": "Metacritic",
+            "Value": "88/100"
+            }
+            ],
+            "Metascore": "88",
+            "imdbRating": "7.3",
+            "imdbVotes": "680,453",
+            "imdbID": "tt1825683",
+            "Type": "movie",
+            "DVD": "02 May 2018",
+            "BoxOffice": "$700,426,566",
+            "Production": "N/A",
+            "Website": "N/A",
+            "Response": "True"
+        },
+        {
+            "Title": "Avengers: Infinity War",
+            "Year": "2018",
+            "Rated": "PG-13",
+            "Released": "27 Apr 2018",
+            "Runtime": "149 min",
+            "Genre": "Action, Adventure, Sci-Fi",
+            "Director": "Anthony Russo, Joe Russo",
+            "Writer": "Christopher Markus, Stephen McFeely, Stan Lee",
+            "Actors": "Robert Downey Jr., Chris Hemsworth, Mark Ruffalo",
+            "Plot": "As the Avengers and their allies have continued to protect the world from threats too large for any one hero to handle, a new danger has emerged from the cosmic shadows: Thanos. A despot of intergalactic infamy, his goal is to collect all six Infinity Stones, artifacts of unimaginable power, and use them to inflict his twisted will on all of reality. Everything the Avengers have fought for has led up to this moment, the fate of Earth and existence has never been more uncertain.",
+            "Language": "English",
+            "Country": "United States",
+            "Awards": "Nominated for 1 Oscar. 46 wins & 77 nominations total",
+            "Poster": "https://m.media-amazon.com/images/M/MV5BMjMxNjY2MDU1OV5BMl5BanBnXkFtZTgwNzY1MTUwNTM@._V1_SX300.jpg",
+            "Ratings": [
+            {
+            "Source": "Internet Movie Database",
+            "Value": "8.4/10"
+            },
+            {
+            "Source": "Rotten Tomatoes",
+            "Value": "85%"
+            },
+            {
+            "Source": "Metacritic",
+            "Value": "68/100"
+            }
+            ],
+            "Metascore": "68",
+            "imdbRating": "8.4",
+            "imdbVotes": "931,550",
+            "imdbID": "tt4154756",
+            "Type": "movie",
+            "DVD": "14 Aug 2018",
+            "BoxOffice": "$678,815,482",
+            "Production": "N/A",
+            "Website": "N/A",
+            "Response": "True"
+        },
+        {
+            "Title": "Ant-Man and the Wasp",
+            "Year": "2018",
+            "Rated": "PG-13",
+            "Released": "06 Jul 2018",
+            "Runtime": "118 min",
+            "Genre": "Action, Adventure, Comedy",
+            "Director": "Peyton Reed",
+            "Writer": "Chris McKenna, Erik Sommers, Paul Rudd",
+            "Actors": "Paul Rudd, Evangeline Lilly, Michael Peña",
+            "Plot": "In the aftermath of Captain America: Civil War (2016), Scott Lang grapples with the consequences of his choices as both a superhero and a father. As he struggles to rebalance his home life with his responsibilities as Ant-Man, he's confronted by Hope van Dyne and Dr. Hank Pym with an urgent new mission. Scott must once again put on the suit and learn to fight alongside The Wasp as the team works together to uncover secrets from their past.",
+            "Language": "English, Spanish",
+            "Country": "United States",
+            "Awards": "2 wins & 21 nominations",
+            "Poster": "https://m.media-amazon.com/images/M/MV5BYjcyYTk0N2YtMzc4ZC00Y2E0LWFkNDgtNjE1MzZmMGE1YjY1XkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_SX300.jpg",
+            "Ratings": [
+            {
+            "Source": "Internet Movie Database",
+            "Value": "7.0/10"
+            },
+            {
+            "Source": "Rotten Tomatoes",
+            "Value": "87%"
+            },
+            {
+            "Source": "Metacritic",
+            "Value": "70/100"
+            }
+            ],
+            "Metascore": "70",
+            "imdbRating": "7.0",
+            "imdbVotes": "344,817",
+            "imdbID": "tt5095030",
+            "Type": "movie",
+            "DVD": "08 Dec 2015",
+            "BoxOffice": "$216,648,740",
+            "Production": "N/A",
+            "Website": "N/A",
+            "Response": "True"
+        },
+        {
+            "Title": "Captain Marvel",
+            "Year": "2019",
+            "Rated": "PG-13",
+            "Released": "08 Mar 2019",
+            "Runtime": "123 min",
+            "Genre": "Action, Adventure, Sci-Fi",
+            "Director": "Anna Boden, Ryan Fleck",
+            "Writer": "Anna Boden, Ryan Fleck, Geneva Robertson-Dworet",
+            "Actors": "Brie Larson, Samuel L. Jackson, Ben Mendelsohn",
+            "Plot": "After crashing an experimental aircraft, Air Force pilot Carol Danvers is discovered by the Kree and trained as a member of the elite Starforce Military under the command of her mentor Yon-Rogg. Six years later, after escaping to Earth while under attack by the Skrulls, Danvers begins to discover there's more to her past. With help from S.H.I.E.L.D. agent Nick Fury, they set out to unravel the truth.",
+            "Language": "English",
+            "Country": "United States, Australia",
+            "Awards": "9 wins & 52 nominations",
+            "Poster": "https://m.media-amazon.com/images/M/MV5BMTE0YWFmOTMtYTU2ZS00ZTIxLWE3OTEtYTNiYzBkZjViZThiXkEyXkFqcGdeQXVyODMzMzQ4OTI@._V1_SX300.jpg",
+            "Ratings": [
+            {
+            "Source": "Internet Movie Database",
+            "Value": "6.8/10"
+            },
+            {
+            "Source": "Rotten Tomatoes",
+            "Value": "79%"
+            },
+            {
+            "Source": "Metacritic",
+            "Value": "64/100"
+            }
+            ],
+            "Metascore": "64",
+            "imdbRating": "6.8",
+            "imdbVotes": "495,122",
+            "imdbID": "tt4154664",
+            "Type": "movie",
+            "DVD": "28 May 2019",
+            "BoxOffice": "$426,829,839",
+            "Production": "N/A",
+            "Website": "N/A",
+            "Response": "True"
+        },
+        {
+            "Title": "Avengers: Endgame",
+            "Year": "2019",
+            "Rated": "PG-13",
+            "Released": "26 Apr 2019",
+            "Runtime": "181 min",
+            "Genre": "Action, Adventure, Drama",
+            "Director": "Anthony Russo, Joe Russo",
+            "Writer": "Christopher Markus, Stephen McFeely, Stan Lee",
+            "Actors": "Robert Downey Jr., Chris Evans, Mark Ruffalo",
+            "Plot": "After the devastating events of Avengers: Infinity War (2018), the universe is in ruins due to the efforts of the Mad Titan, Thanos. With the help of remaining allies, the Avengers must assemble once more in order to undo Thanos's actions and undo the chaos to the universe, no matter what consequences may be in store, and no matter who they face...",
+            "Language": "English, Japanese, Xhosa, German",
+            "Country": "United States",
+            "Awards": "Nominated for 1 Oscar. 70 wins & 123 nominations total",
+            "Poster": "https://m.media-amazon.com/images/M/MV5BMTc5MDE2ODcwNV5BMl5BanBnXkFtZTgwMzI2NzQ2NzM@._V1_SX300.jpg",
+            "Ratings": [
+            {
+            "Source": "Internet Movie Database",
+            "Value": "8.4/10"
+            },
+            {
+            "Source": "Rotten Tomatoes",
+            "Value": "94%"
+            },
+            {
+            "Source": "Metacritic",
+            "Value": "78/100"
+            }
+            ],
+            "Metascore": "78",
+            "imdbRating": "8.4",
+            "imdbVotes": "948,888",
+            "imdbID": "tt4154796",
+            "Type": "movie",
+            "DVD": "30 Jul 2019",
+            "BoxOffice": "$858,373,000",
+            "Production": "N/A",
+            "Website": "N/A",
+            "Response": "True"
+        },
+        {
+            "Title": "Spider-Man: Far from Home",
+            "Year": "2019",
+            "Rated": "PG-13",
+            "Released": "02 Jul 2019",
+            "Runtime": "129 min",
+            "Genre": "Action, Adventure, Sci-Fi",
+            "Director": "Jon Watts",
+            "Writer": "Chris McKenna, Erik Sommers, Stan Lee",
+            "Actors": "Tom Holland, Samuel L. Jackson, Jake Gyllenhaal",
+            "Plot": "Our friendly neighborhood Super Hero decides to join his best friends Ned, MJ, and the rest of the gang on a European vacation. However, Peter's plan to leave super heroics behind for a few weeks are quickly scrapped when he begrudgingly agrees to help Nick Fury uncover the mystery of several elemental creature attacks, creating havoc across the continent.",
+            "Language": "English, Italian, Czech",
+            "Country": "United States",
+            "Awards": "10 wins & 26 nominations",
+            "Poster": "https://m.media-amazon.com/images/M/MV5BMGZlNTY1ZWUtYTMzNC00ZjUyLWE0MjQtMTMxN2E3ODYxMWVmXkEyXkFqcGdeQXVyMDM2NDM2MQ@@._V1_SX300.jpg",
+            "Ratings": [
+            {
+            "Source": "Internet Movie Database",
+            "Value": "7.4/10"
+            },
+            {
+            "Source": "Rotten Tomatoes",
+            "Value": "90%"
+            },
+            {
+            "Source": "Metacritic",
+            "Value": "69/100"
+            }
+            ],
+            "Metascore": "69",
+            "imdbRating": "7.4",
+            "imdbVotes": "384,464",
+            "imdbID": "tt6320628",
+            "Type": "movie",
+            "DVD": "27 Aug 2019",
+            "BoxOffice": "$390,532,085",
+            "Production": "N/A",
+            "Website": "N/A",
+            "Response": "True"
+        },
+        {
+            "Title": "WandaVision",
+            "Year": "2021",
+            "Rated": "TV-PG",
+            "Released": "15 Jan 2021",
+            "Runtime": "350 min",
+            "Genre": "Action, Comedy, Drama",
+            "Director": "N/A",
+            "Writer": "Jac Schaeffer",
+            "Actors": "Elizabeth Olsen, Paul Bettany, Kathryn Hahn",
+            "Plot": "Blends the style of classic sitcoms with the MCU, in which Wanda Maximoff and Vision - two super-powered beings living their ideal suburban lives - begin to suspect that everything is not as it seems.",
+            "Language": "English",
+            "Country": "United States",
+            "Awards": "Won 3 Primetime Emmys. 18 wins & 47 nominations total",
+            "Poster": "https://m.media-amazon.com/images/M/MV5BZGEwYmMwZmMtMTQ3MS00YWNhLWEwMmQtZTU5YTIwZmJjZGQ0XkEyXkFqcGdeQXVyMTI5MzA5MjA1._V1_SX300.jpg",
+            "Ratings": [
+            {
+            "Source": "Internet Movie Database",
+            "Value": "8.0/10"
+            }
+            ],
+            "Metascore": "N/A",
+            "imdbRating": "8.0",
+            "imdbVotes": "233,326",
+            "imdbID": "tt9140560",
+            "Type": "series",
+            "totalSeasons": "1",
+            "Response": "True"
+        },
+        {
+            "Title": "The Falcon and the Winter Soldier",
+            "Year": "2021",
+            "Rated": "TV-14",
+            "Released": "19 Mar 2021",
+            "Runtime": "50 min",
+            "Genre": "Action, Adventure, Drama",
+            "Director": "N/A",
+            "Writer": "Malcolm Spellman",
+            "Actors": "Anthony Mackie, Sebastian Stan, Wyatt Russell",
+            "Plot": "Following the events of 'Avengers: Endgame,' Sam Wilson/Falcon and Bucky Barnes/Winter Soldier team up in a global adventure that tests their abilities -- and their patience.",
+            "Language": "English",
+            "Country": "United States",
+            "Awards": "Nominated for 5 Primetime Emmys. 2 wins & 24 nominations total",
+            "Poster": "https://m.media-amazon.com/images/M/MV5BODNiODVmYjItM2MyMC00ZWQyLTgyMGYtNzJjMmVmZTY2OTJjXkEyXkFqcGdeQXVyNzk3NDUzNTc@._V1_SX300.jpg",
+            "Ratings": [
+            {
+            "Source": "Internet Movie Database",
+            "Value": "7.3/10"
+            }
+            ],
+            "Metascore": "N/A",
+            "imdbRating": "7.3",
+            "imdbVotes": "159,940",
+            "imdbID": "tt9208876",
+            "Type": "series",
+            "totalSeasons": "1",
+            "Response": "True"
+        },
+        {
+            "Title": "Loki",
+            "Year": "2021–",
+            "Rated": "TV-14",
+            "Released": "09 Jun 2021",
+            "Runtime": "N/A",
+            "Genre": "Action, Adventure, Fantasy",
+            "Director": "N/A",
+            "Writer": "Michael Waldron",
+            "Actors": "Tom Hiddleston, Owen Wilson, Gugu Mbatha-Raw",
+            "Plot": "The mercurial villain Loki resumes his role as the God of Mischief in a new series that takes place after the events of “Avengers: Endgame.”",
+            "Language": "English",
+            "Country": "United States",
+            "Awards": "2 nominations",
+            "Poster": "https://m.media-amazon.com/images/M/MV5BNTkwOTE1ZDYtODQ3Yy00YTYwLTg0YWQtYmVkNmFjNGZlYmRiXkEyXkFqcGdeQXVyNTc4MjczMTM@._V1_SX300.jpg",
+            "Ratings": [
+            {
+            "Source": "Internet Movie Database",
+            "Value": "8.4/10"
+            }
+            ],
+            "Metascore": "N/A",
+            "imdbRating": "8.4",
+            "imdbVotes": "203,764",
+            "imdbID": "tt9140554",
+            "Type": "series",
+            "totalSeasons": "1",
+            "Response": "True"
+        },
+        {
+            "Title": "Black Widow",
+            "Year": "2021",
+            "Rated": "PG-13",
+            "Released": "09 Jul 2021",
+            "Runtime": "134 min",
+            "Genre": "Action, Adventure, Sci-Fi",
+            "Director": "Cate Shortland",
+            "Writer": "Eric Pearson, Jac Schaeffer, Ned Benson",
+            "Actors": "Scarlett Johansson, Florence Pugh, David Harbour",
+            "Plot": "In Marvel Studios' action-packed spy thriller \"Black Widow,\" Natasha Romanoff aka Black Widow confronts the darker parts of her ledger when a dangerous conspiracy with ties to her past arises. Pursued by a force that will stop at nothing to bring her down, Natasha must deal with her history as a spy and the broken relationships left in her wake long before she became an Avenger.",
+            "Language": "English, Russian, Norwegian, Hungarian, Macedonian, Finnish",
+            "Country": "United States",
+            "Awards": "1 win & 2 nominations",
+            "Poster": "https://m.media-amazon.com/images/M/MV5BNjRmNDI5MjMtMmFhZi00YzcwLWI4ZGItMGI2MjI0N2Q3YmIwXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_SX300.jpg",
+            "Ratings": [
+            {
+            "Source": "Internet Movie Database",
+            "Value": "6.8/10"
+            },
+            {
+            "Source": "Rotten Tomatoes",
+            "Value": "79%"
+            },
+            {
+            "Source": "Metacritic",
+            "Value": "67/100"
+            }
+            ],
+            "Metascore": "67",
+            "imdbRating": "6.8",
+            "imdbVotes": "251,153",
+            "imdbID": "tt3480822",
+            "Type": "movie",
+            "DVD": "06 Oct 2021",
+            "BoxOffice": "$183,651,655",
+            "Production": "N/A",
+            "Website": "N/A",
+            "Response": "True"
+        },
+        {
+            "Title": "What If...?",
+            "Year": "2021–",
+            "Rated": "TV-14",
+            "Released": "11 Aug 2021",
+            "Runtime": "N/A",
+            "Genre": "Animation, Action, Adventure",
+            "Director": "N/A",
+            "Writer": "N/A",
+            "Actors": "Jeffrey Wright, Matthew Wood, Terri Douglas",
+            "Plot": "Exploring pivotal moments from the Marvel Cinematic Universe and turning them on their head, leading the audience into uncharted territory.",
+            "Language": "English",
+            "Country": "United States",
+            "Awards": "N/A",
+            "Poster": "https://m.media-amazon.com/images/M/MV5BOGYwYTA5M2QtMTk3Zi00ZjdjLWFkNDUtYzg4MjM0ZGI0MGU1XkEyXkFqcGdeQXVyODIyOTEyMzY@._V1_SX300.jpg",
+            "Ratings": [
+            {
+            "Source": "Internet Movie Database",
+            "Value": "7.6/10"
+            }
+            ],
+            "Metascore": "N/A",
+            "imdbRating": "7.6",
+            "imdbVotes": "42,724",
+            "imdbID": "tt10168312",
+            "Type": "series",
+            "totalSeasons": "1",
+            "Response": "True"
+        },
+        {
+            "Title": "Shang-Chi and the Legend of the Ten Rings",
+            "Year": "2021",
+            "Rated": "PG-13",
+            "Released": "03 Sep 2021",
+            "Runtime": "132 min",
+            "Genre": "Action, Adventure, Fantasy",
+            "Director": "Destin Daniel Cretton",
+            "Writer": "Dave Callaham, Destin Daniel Cretton, Andrew Lanham",
+            "Actors": "Simu Liu, Awkwafina, Tony Chiu-Wai Leung",
+            "Plot": "Shang-Chi, the master of weaponry-based Kung Fu, is forced to confront his past after being drawn into the Ten Rings organization.",
+            "Language": "English, Mandarin",
+            "Country": "United States, Australia",
+            "Awards": "N/A",
+            "Poster": "https://m.media-amazon.com/images/M/MV5BNTliYjlkNDQtMjFlNS00NjgzLWFmMWEtYmM2Mzc2Zjg3ZjEyXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_SX300.jpg",
+            "Ratings": [
+            {
+            "Source": "Internet Movie Database",
+            "Value": "7.9/10"
+            },
+            {
+            "Source": "Metacritic",
+            "Value": "71/100"
+            }
+            ],
+            "Metascore": "71",
+            "imdbRating": "7.9",
+            "imdbVotes": "102,839",
+            "imdbID": "tt9376612",
+            "Type": "movie",
+            "DVD": "N/A",
+            "BoxOffice": "$208,256,765",
+            "Production": "N/A",
+            "Website": "N/A",
+            "Response": "True"
         }
     ]
 }

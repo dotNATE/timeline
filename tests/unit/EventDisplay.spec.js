@@ -9,15 +9,21 @@ const factory = (props) => {
   });
 };
 
-const titleText = "Test Title";
-const releaseText = "Test Release Year";
-const timelineText = "Test Timeline Year";
+const mockEvent = {
+  Title: "Iron Man",
+  Year: "2009",
+  Released: "26 Apr 2019",
+  Runtime: "2h 6m",
+  Director: "Anthony Russo, Joe Russo",
+  Writer:
+    "Christopher Markus, Stephen McFeely, Stan Lee (based on the Marvel comics by), Jack Kirby (based on the Marvel comics by), Jim Starlin (comic book)",
+  Poster:
+    "https://m.media-amazon.com/images/M/MV5BNGZiMzBkZjMtNjE3Mi00MWNlLWIyYjItYTk3MjY0Yjg5ODZkXkEyXkFqcGdeQXVyNDg4NjY5OTQ@._V1_SX300.jpg",
+  imdbID: "tt4154796",
+  Type: "movie",
+};
 
-const wrapper = factory({
-  title: titleText,
-  yearOfRelease: releaseText,
-  yearInTimeline: timelineText,
-});
+const wrapper = factory(mockEvent);
 
 describe("EventDisplay", () => {
   it("renders the event card", () => {
@@ -27,16 +33,16 @@ describe("EventDisplay", () => {
 
   it("renders event name", () => {
     const titleText = wrapper.find('[data-testid="title"]').text();
-    expect(titleText).toEqual(titleText);
+    expect(titleText).toEqual(mockEvent.Title);
   });
 
   it("renders year of release", () => {
     const releaseYearText = wrapper.find('[data-testid="year-release"]').text();
-    expect(releaseYearText).toEqual(releaseText);
+    expect(releaseYearText).toEqual(mockEvent.Released);
   });
 
   it("renders year in timeline", () => {
     const timelineYear = wrapper.find('[data-testid="year-timeline"]').text();
-    expect(timelineYear).toEqual(timelineText);
+    expect(timelineYear).toEqual(mockEvent.Year);
   });
 });
