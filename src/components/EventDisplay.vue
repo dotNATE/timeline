@@ -1,6 +1,6 @@
 <template>
   <div
-    class="relative grid h-64 max-w-md grid-cols-2 mx-auto overflow-hidden text-white bg-black rounded-md cursor-pointer  event-card"
+    class="relative grid h-56 grid-cols-2 mx-auto overflow-hidden text-white bg-black rounded-md cursor-pointer  w-96 event-card"
   >
     <div class="flex flex-col p-4">
       <h1 class="z-10" data-testid="title">{{ Title }}</h1>

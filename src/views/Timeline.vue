@@ -1,7 +1,14 @@
 <template>
-  <div class="px-6 py-20 pb-4">
+  <div class="relative flex flex-col justify-between flex-1 overflow-auto">
+    <main class="flex-1"></main>
     <ReleaseOrder v-slot="events">
-      <EventDisplay v-for="event in events" :key="event.title" v-bind="event" />
+      <div class="flex p-2 space-x-2 event-list">
+        <EventDisplay
+          v-for="event in events"
+          :key="event.title"
+          v-bind="event"
+        />
+      </div>
     </ReleaseOrder>
   </div>
 </template>

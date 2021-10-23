@@ -1,5 +1,5 @@
 <template>
-  <div data-testid="root" class="flex flex-col space-y-2 event-list">
+  <div data-testid="root">
     <slot v-bind="events"></slot>
   </div>
 </template>
